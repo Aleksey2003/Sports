@@ -1,0 +1,73 @@
+a:visited {
+	color: blue;
+}
+
+li {
+	list-style: square;
+
+}
+
+tr:nth-child(even) {
+background-color:#ccc;
+}
+
+
+a:hover{
+color:red;
+}
+
+
+#heading {
+	padding: 40px 0px 40px 0px;
+	color: white;
+	background-color: red;
+	text-align: center;
+	font-size: 40px;
+	border-top: solid black 20px;
+	border-left: solid black 10px;
+	border-right: solid black 10px;
+}
+
+
+.return_link {
+	border: 2px solid black;
+	width: 380px;
+	padding: 10px 10px 10px 50px;
+	margin-left: 20px;
+
+}
+
+
+.schedules_table {
+	margin-right: auto;
+	margin-left: auto;
+
+
+}
+
+.schedules_table th, td {
+
+border: 1px solid black;
+padding: 10px 10px 10px 10px;
+
+}
+
+.schedules_table th {
+	background-color: black;
+	color: white; 
+	font-size: 20px;
+}
+
+
+
+
+.black_box {
+	
+	margin-top: 50px;
+	height: 250px;
+	color: white;
+	background-color: black;
+	position: relative;
+	border:1px solid white;\
+	width: 1000px;
+}

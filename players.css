@@ -1,0 +1,100 @@
+a:visited {
+	color: blue;
+}
+
+.jpg {
+height: 100px;
+}
+
+tr:nth-child(even) {
+background-color:#ccc;
+}
+
+a:hover{
+color:red;
+}
+
+
+#heading {
+text-align: center;
+background-color: red;
+color: white;
+font-size: 40px;
+padding: 30px 0px 30px 0px;
+border-top: black solid 15px;
+border-right: 10px solid black;
+border-left: 10px solid black;
+margin: 5px 5px 0px 5px;
+}
+
+
+.text {
+font-size: 18px;
+margin: 20px 50px 0px 50px;
+text-align: center;
+
+}
+
+
+.unordered_list {
+border: black 2px solid;
+width: 400px;
+padding:10px 10px 10px 50px;
+list-style: square;
+
+}
+
+
+
+.table_of_players  {
+float:left;
+width: 33.2%;
+box-sizing: border-box;
+}
+
+
+
+.player_table {
+width: 400px;
+
+}
+
+
+
+.player_table th, td {
+
+border: 1px solid black;
+
+}
+
+
+
+.player_table td {
+text-align: center;
+}
+
+
+
+.player_table th {
+	padding: 5px 0px 5px 0px;
+	background-color: black;
+	color: white; 
+}
+
+
+
+
+.clr {
+	clear: both;
+}
+
+.black_box {
+	
+	margin-top: 50px;
+	height: 250px;
+	color: white;
+	background-color: black;
+	position: relative;
+	border:1px solid white;\
+	width: 1000px;
+}
